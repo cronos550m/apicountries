@@ -1,0 +1,16 @@
+.containerPais {
+    border: 2px solid blue;
+    width:30vw;
+    margin: 8vh 8vw;
+    padding:5px;
+}
+
+.pais,.capital,.poblacion {
+    text-decoration: underline;
+    font-weight: bold;
+    color: blue;
+}
+
+.bandera {
+    width:90%;
+}

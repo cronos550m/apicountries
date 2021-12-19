@@ -1,0 +1,4 @@
+.containerPaises {
+    display: flex;
+    flex-wrap:wrap;
+}
